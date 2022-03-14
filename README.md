@@ -1,5 +1,7 @@
 # ·PROYECTO  JSON·
 
+![](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_AnimalCrossingNewHorizons_image1600w.jpg)
+
 Este json almacena información sobre los productos del famoso juego Animal Crossing disponibles en la tienda de tom nook, los que puedes fabricar tú mismo en la mesa de trabajo y los que te regala el personaje C.J. 
 
 
@@ -31,5 +33,16 @@ Realiza los siguientes apartados en base al mismo:
 
 
 6. Añadir una opción para salir del programa.
+
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://sm.ign.com/ign_es/screenshot/default/animal-crossing-new-horizons-timmy-and-tommy-790x731_z9as.png" alt="JuveYell" width="300px">
+</p>
+</div>
+
+
+
+
 
 
