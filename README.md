@@ -37,7 +37,7 @@ Realiza los siguientes apartados en base al mismo:
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://sm.ign.com/ign_es/screenshot/default/animal-crossing-new-horizons-timmy-and-tommy-790x731_z9as.png" alt="JuveYell" width="300px">
+<img src="https://sm.ign.com/ign_es/screenshot/default/animal-crossing-new-horizons-timmy-and-tommy-790x731_z9as.png" alt="Awita" width="300px">
 </p>
 </div>
 
